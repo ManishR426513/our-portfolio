@@ -3,7 +3,7 @@ export const METADATA = {
   title: "Portfolio | Manish Rawat",
   description:
     "Manish Rawat is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
-  siteUrl: "https://www.shubhporwal.me/",
+  siteUrl: "https://new-portfolio-theta-orpin.vercel.app/",
   twitterHandle: "@shubhporwal24",
   keywords: [
     "Manish Rawat",
