@@ -63,13 +63,17 @@ export const SOCIAL_LINKS = [
     url: "https://github.com/DeveloperManishR",
   },
   {
-    name: "instagram",
-    url: "https://www.instagram.com",
+    name: "telegram",
+    url: "https://t.me/Manish_R10", // Replace with your actual Telegram username
   },
-  {
-    name: "twitter",
-    url: "https://x.com",
-  },
+  // {
+  //   name: "instagram",
+  //   url: "https://t.me/Manish_R10", // Replace with your actual Telegram username
+  // },
+  // {
+  //   name: "twitter",
+  //   url: "https://x.com",
+  // },
 ];
 
 export const SKILLS = {
